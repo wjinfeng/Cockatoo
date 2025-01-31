@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/wjinfeng/Cockatoo">
-    <img src="img/logo.png" width = "60%">
+    <img src="img/logo.png" width = "30%">
   </a>
 </div>
 <p align="center">
